@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1510127689 source:c:\users\dell\desktop\final\main.cpp
+	<bits/stdc++.h>
+	<graphics.h>
+	"alll.h"
+
+1510127662 source:c:\users\dell\desktop\final\gamemode.cpp
+	<graphics.h>
+	"alll.h"
+	<bits/stdc++.h>
+	<time.h>
+
+1510127639 c:\users\dell\desktop\final\alll.h
+
+1510127695 source:c:\users\dell\desktop\final\higscore.cpp
+	<graphics.h>
+	"alll.h"
+	<bits/stdc++.h>
+
+1510127693 source:c:\users\dell\desktop\final\mainmenu.cpp
+	<bits/stdc++.h>
+	<graphics.h>
+	"alll.h"
+
+1510127767 source:c:\users\dell\desktop\final\help.cpp
+	<graphics.h>
+	"alll.h"
+
+1510127823 source:c:\users\dell\desktop\final\credit.cpp
+	<graphics.h>
+	"alll.h"
+

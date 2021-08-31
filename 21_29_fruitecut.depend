@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1509733071 source:c:\users\harun-or-rashid\desktop\21_29_fruitecut\credits.cpp
+	<graphics.h>
+	"All.h"
+
+1509894378 c:\users\harun-or-rashid\desktop\21_29_fruitecut\all.h
+
+1510096634 source:c:\users\harun-or-rashid\desktop\21_29_fruitecut\gamemode.cpp
+	<graphics.h>
+	"All.h"
+	<bits/stdc++.h>
+	<time.h>
+
+1510096656 source:c:\users\harun-or-rashid\desktop\21_29_fruitecut\help.cpp
+	<graphics.h>
+	"All.h"
+
+1509894459 source:c:\users\harun-or-rashid\desktop\21_29_fruitecut\highscore.cpp
+	<graphics.h>
+	"All.h"
+	<bits/stdc++.h>
+
+1510095333 source:c:\users\harun-or-rashid\desktop\21_29_fruitecut\main.cpp
+	<bits/stdc++.h>
+	<graphics.h>
+	"All.h"
+
+1510096634 source:c:\users\harun-or-rashid\desktop\21_29_fruitecut\mainmenu.cpp
+	<bits/stdc++.h>
+	<graphics.h>
+	"All.h"
+
+1509775731 source:c:\users\harun-or-rashid\desktop\21_29_fruitecut\hardmode.cpp
+	<graphics.h>
+	"All.h"
+	<bits/stdc++.h>
+	<time.h>
+
